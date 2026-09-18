@@ -1,0 +1,20 @@
+Copyright (c) 2026 Baatpay. All rights reserved.
+
+This repository and its contents — including design tokens, documentation,
+brand assets, logos, illustrations, and typography — are the proprietary
+property of Baatpay and its parent entity. They are provided for internal
+use by Baatpay team members and authorized contractors only.
+
+You may NOT, without prior written permission from Baatpay:
+  - Redistribute, publish, or share these contents outside the Baatpay team.
+  - Use the Baatpay name, logo, mascot, or brand assets in any product,
+    service, or material not owned by or authorized by Baatpay.
+  - Sublicense, sell, or commercially exploit any part of this repository.
+
+Authorized team members and contractors MAY use these contents to design,
+build, and maintain Baatpay products.
+
+This is a proprietary license. If you intend to open-source any portion of
+this system, replace this file with an appropriate open-source license
+(e.g. MIT, Apache-2.0) and review asset/font licensing first — see
+docs/02-brand and assets/README.md.
